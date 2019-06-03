@@ -13,7 +13,7 @@ Structure of input information:
 **Camera**: `[x, y, z]` - start position , `[ox, oy, oz]` rotating angle.
 
 
-**Sphere**: `[x, y, z]` - shape center , `[R]' - radius, `[r, g, b]` - color, `[L]` - intense of light reflection.
+**Sphere**: `[x, y, z]` - shape center , `[R]` - radius, `[r, g, b]` - color, `[L]` - intense of light reflection.
 
 
 **Cylinder**: `[x, y, z]` - shape center , `[x, y, z]` - central axis, `[r, g, b]` - color, `[R]` - radiusб `[L]` - intense of light reflection.
