@@ -12,15 +12,21 @@ Structure of input information:
 
 **Camera**: `[x, y, z]` - start position , `[ox, oy, oz]` rotating angle.
 
+
 **Sphere**: `[x, y, z]` - shape center , `[R]' - radius, `[r, g, b]` - color, `[L]` - intense of light reflection.
+
 
 **Cylinder**: `[x, y, z]` - shape center , `[x, y, z]` - central axis, `[r, g, b]` - color, `[R]` - radiusб `[L]` - intense of light reflection.
 
+
 **Plane**: `[x, y, z]` - shape center , `[x, y, z]` - central axis, `[r, g, b]` - color.
+
 
 **Cone**: `[x, y, z]` - shape center , `[x, y, z]` - central axis, `[r, g, b]` - color, `[A]` - angle, `[L]` - intense of light reflection.
 
+
 **Light**: `[x, y, z]` - light center , `[I]` - light intense, `[0 or 1]` - light type (point-light or ambient).
+
 
 ##### Input file example:
 
